@@ -95,7 +95,6 @@ header > p {
 ul.menu {
   display: flex;
   list-style: none;
-  transition-duration: 0.5s;
 }
 
 ul.menu li a {
